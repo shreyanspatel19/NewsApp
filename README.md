@@ -1,3 +1,12 @@
+#IT'S NOT WORKING IN LIVE browser because api are not allowed on the Developer plan, except from localhost.
+
+
+                                                                          News app view like 
+
+![FireShot Capture 029 - General - Discussion - localhost](https://user-images.githubusercontent.com/96562561/230756211-abf9fc79-0c7e-4337-b0b2-8fc4e0953236.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
