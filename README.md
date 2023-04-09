@@ -3,7 +3,8 @@
 
                                                                           News app view like 
 
-![FireShot Capture 029 - General - Discussion - localhost](https://user-images.githubusercontent.com/96562561/230756211-abf9fc79-0c7e-4337-b0b2-8fc4e0953236.png)
+
+![FireShot Capture 029 - General - Discussion - localhost](https://user-images.githubusercontent.com/96562561/230756393-b8ef3c77-8df9-4372-94a4-329735d46428.png)
 
 
 
