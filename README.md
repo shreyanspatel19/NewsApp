@@ -1,12 +1,12 @@
 #IT'S NOT WORKING IN LIVE browser because api are not allowed on the Developer plan, except from localhost.
 
 
-                                                                          News App view like 
+                                                          News App view like 
 
 
 ![FireShot Capture 029 - General - Discussion - localhost](https://user-images.githubusercontent.com/96562561/230756393-b8ef3c77-8df9-4372-94a4-329735d46428.png)
 
-                                                                        With Categories 
+                                                           With Categories 
                                                                         
 ![Screenshot 2023-04-09 111006](https://user-images.githubusercontent.com/96562561/230756461-724dfd83-4481-4ac2-bbe0-e4d2ebb4e3bc.png)
                           
